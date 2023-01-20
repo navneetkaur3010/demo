@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:black;
+  /* color:beige */
+  text-align: center;
+  color: black;
+  background-image: url("https://www.okynemedialab.com/wp-content/uploads/2019/11/netflix-background-50-Black-1024x576.jpg");
+  background-attachment: scrolls;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+table {
+  border: 2px solid goldenrod;
+  width: 1500px;
+  height: 200px;
+ display:inline-table;
+  justify-content: center;
+  align-items: center;
+ 
+  
+
+}
+  
+th {
+  border-bottom: 1px solid goldenrod;
+  border: 1px solid white;
+  border: collapse ;
+  border-collapse: collapse;
+}
+  
+td {
+  text-align: center;
+  border-bottom: 1px solid goldenrod;
+  border: 1px solid white;
+}
+
+tr {
+  border-bottom: 1px solid goldenrod;
+  border-color: white;
+  /* border: 1px solid white; */
+  text-align: center;
+  
+
+}
+
+.card-text-bg-dark mb-3 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  padding: 8px 48px;
+  display: flex;
+  margin: 25px;
+  height: 40px; 
+  justify-content: center;
+
+}
+
+
+
